@@ -37,7 +37,7 @@ sql/
   05_validation_checks.sql
   06_analytical_queries.sql
 docs/
-  learning_notes.md
+  learning_notes.docx
 README.md
 ```
 
