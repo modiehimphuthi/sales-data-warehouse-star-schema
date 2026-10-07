@@ -65,4 +65,4 @@ More queries are in `sql/06_analytical_queries.sql`.
 
 This is a learning project focused on core dimensional modelling. SCD Type 1 and Type 2 are understood conceptually but **not implemented**.
 
-For the full write-up of lessons and "aha moments", see file `learning_notes.docx`.
+For the full write-up of lessons and "aha moments", see file `Modiehi_Learning_Notes.docx`.
